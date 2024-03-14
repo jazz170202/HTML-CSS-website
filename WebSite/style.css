@@ -1,0 +1,411 @@
+html {
+    background-image: url("Photos/205459995.jpg");
+    background-size: cover;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-blend-mode: lighten;
+}
+
+a {
+    text-decoration: none;
+    color: #fffde7;
+}
+
+.content {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.logo {
+    float: left;
+    width: 100px;
+    height: 70px;
+}
+
+.logo img {
+    height: 70px;
+    width: 100px;
+}
+
+.title {
+    background-color: rgb(211, 118, 31);
+    height: 100px;
+}
+
+.title h1 {
+    font-family: 'Amatic SC';
+    font-size: 60px;
+    text-align: center;
+    color: #eef8ba;
+    text-shadow: 2px 2px 3px #262c05b5;
+    padding-top: 15px;
+    padding-bottom: 35px;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+}
+
+.panelMenuH {
+    padding: 5px;
+    text-align: right;
+}
+
+.menuH {
+    display: inline-block;
+    width: 150px;
+    height: 20px;
+    border: 3px solid rgb(145, 78, 17);
+    margin: 5px;
+    border-radius: 3px;
+    line-height: 30px;
+    text-align: center;
+    box-shadow: 3px 3px 2px rgb(150, 82, 18);
+    background-color: rgb(145, 78, 17);
+    padding: 5px;
+    font: bold 20pt 'Amatic SC';
+    color: #fffde7;
+    padding-bottom: 10px;
+}
+
+.menuH a:hover {
+    color: #fff180;
+}
+
+.image {
+    margin: 0 auto;
+    padding-top: 20px;
+    width: 100%;
+    height: 100%;
+}
+
+.news {
+    background-color: #f3f8d7;
+    padding: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: 'Calibri';
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+div h3 {
+    font-family: 'Amatic SC';
+    font-size: 40px;
+}
+
+.map {
+    width: 100%;
+    background-size: contain;
+}
+
+.tab {
+    display: inline-block;
+    border-spacing: 10px;
+    margin-top: 10px;
+    width: 100%;
+}
+
+.historyphoto {
+
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.tdImg {
+    background-image: url("Photos/204974632.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color:aqua;
+    vertical-align: middle;
+}
+
+.tdImg1 {
+    background-image: url("Photos/mizej-2-1024x697.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    vertical-align: middle;
+}
+
+.naturephoto {
+    background-image: url("Photos/kalin-kamen-750x406.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    vertical-align: middle;
+}
+
+.text {
+    background-color: rgb(255, 255, 255, 0.8);
+    padding: 30px;
+    font: 15pt 'Calibri';
+    text-align: left;
+}
+
+.text2 {
+    background-color: rgb(255, 255, 255, 0.8);
+    padding: 30px;
+    font: 12pt 'Calibri';
+    text-align: left;
+}
+
+.photo {
+    max-height: 100%;
+    width: 100%;
+}
+
+.tab2 {
+    margin-top: 10px;
+    border-spacing: 10px;
+    display: inline-block;
+}
+
+.author {
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+    text-align: center;
+    background-color: rgb(211, 118, 31);
+    font: 25pt 'Amatic SC';
+    color: #eef8ba;
+}
+
+h2 {
+    text-indent: 20px;
+    font: 30pt 'Amatic SC';
+    color: white;
+    margin: 0;
+}
+
+ol {
+    padding: 30px;
+    margin: 20px;
+    font-family: 'Amatic SC';
+    color: white;
+    list-style-type: decimal;
+    margin: 0;
+}
+
+ol li a {
+    color: white;
+    text-decoration: underline;
+    font-family: 'Amatic SC';
+    font-size: 25pt;
+}
+
+.sources {
+    background-image: url("Photos/Balkanea-Blog-Photos-7.png");
+    background-size: cover;
+    margin: 0;
+    max-height: 100%;
+    width: 100%;
+}
+
+.food {
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+    border-spacing: 20px;
+
+
+}
+
+.color {
+    background-color: rgb(211, 118, 31);
+    color: white;
+    width: 25%;
+    font: 15pt 'Calibri';
+    margin: 10px;
+    
+}
+
+.foodpic1 {
+    background-image: url("Photos/Beans.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    vertical-align: middle;
+    height: 100%;
+    width: 25%;
+
+}
+
+.foodpic2 {
+    background-image: url("Photos/download (1).jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    vertical-align: middle;
+    height: 100%;
+    width: 25%;
+}
+
+.foodpic3 {
+    background-image: url("Photos/macedonianfood_00-735x459.jpg.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    vertical-align: middle;
+    height: 100%;
+    width: 25%;
+
+}
+
+.foodpic4 {
+    background-image: url("Photos/macedonianfood_04-735x459.jpg.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    vertical-align: middle;
+    height: 100%;
+    width: 25%;
+}
+
+.gallery {
+    display: inline-block;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    vertical-align: center;
+    padding: 40px;
+
+}
+
+figure {
+    height: 300px;
+    width: 300px;
+    border-radius: 5px;
+    background-color: rgb(235, 205, 177);
+    padding: 5px;
+    margin: 20px;
+    float: left;
+    box-shadow: 0px 2px 7px rgba(0, 0, 0, 0.2);
+}
+
+figure .flowImg {
+    overflow: hidden;
+    height: 280px;
+    text-align: center;
+}
+
+figure img {
+    height: 100%;
+}
+
+@font-face {
+    font-family: myFirstFont;
+    src: url("../Курсов проект/Fonts/Rubik-Italic-VariableFont_wght.ttf");
+}
+
+figure figcaption {
+    margin-top: 5px;
+    font-family: myFirstFont;
+    text-align: center;
+    font-size: 12pt;
+    font-weight: bold;
+    color: rgb(145, 78, 17);
+
+}
+
+.infor {
+    font-family: 'Amatic SC';
+    text-align: center;
+    margin: auto;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    padding-bottom: 55px;
+}
+
+.infor th {
+    font-size: 25pt;
+}
+
+.infor td {
+    width: 700px;
+    height: auto;
+
+}
+
+header {
+    font-family: 'Amatic SC';
+    font-size: larger;
+    font-weight: bold;
+    text-align: center;
+    text-shadow: 1px 1px white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: rgb(211, 118, 31);
+    letter-spacing: 1px;
+}
+
+.recom {
+    margin-left: auto;
+    margin-right: auto;
+    width: 550px;
+    border-collapse: collapse;
+    background-color: rgb(242, 195, 150);
+    border: 1px solid white;
+}
+
+.recom tr,
+td,
+th {
+    padding: 5px;
+  
+}
+
+.recom th {
+    color: #FFFFFF;
+    font-weight: bold;
+    background-color: rgb(211, 118, 31);
+    padding: 10px;
+    text-align: center;
+}
+
+.r {
+    color: red;
+}
+
+input,
+select,
+textarea {
+    padding: 5px;
+    color: rgb(211, 118, 31);
+    font-size: 1em;
+    font-family: Calibri;
+}
+
+textarea {
+    min-height: 20px;
+    max-height: 300px;
+    max-width: 550px;
+    min-width: 540px;
+}
+
+.btn {
+    background-color: rgb(211, 118, 31);
+    color: white;
+    padding: 5px 20px;
+    margin: 0 20px;
+    border: 3px outset;
+}
+
+.sendTD {
+    text-align: center;
+    padding: 10px;
+    border-top: 2px dashed white;
+}
+
+footer {
+    margin-top: 10px;
+    background-color: rgb(145, 78, 17);
+    border-radius: 3px;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Amatic SC';
+    letter-spacing: 2px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    color: #fffde7;
+}
